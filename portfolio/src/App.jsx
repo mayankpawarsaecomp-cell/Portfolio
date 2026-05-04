@@ -19,7 +19,7 @@ export default function App() {
   desc: "A full-stack system to manage patient records, appointments, and clinic workflow efficiently.",
   tech: "Flask • MySQL • HTML • CSS • JavaScript",
   impact: "Improved clinic workflow and structured patient data",
-  demo: "#",
+  demo: "https://69f845a80e2bc098e8acefdb--lively-sorbet-9cc761.netlify.app/",
   github: "https://github.com/mayankpawarsaecomp-cell/Dental-clinic-2/tree/main/client_project%202/client_project"
 },
   {
